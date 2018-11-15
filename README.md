@@ -1,4 +1,4 @@
-# Simple Bank Exercise
+ # Simple Bank Exercise
 
 The Simple Bank directory is a truffle project that contains the required contract, migration and test files. In this exercise you are going to implement the SimpleBank.sol contract.
 
